@@ -47,7 +47,7 @@ a:hover { color:black; }
     text-align: center;
     line-height: 0;
 }
-.question {
+#question {
     /* width: 720px; */
     color: #000;
     text-align: center;
