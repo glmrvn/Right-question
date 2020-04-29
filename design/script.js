@@ -112,7 +112,8 @@ var questions = [
     'Tell me a little about your current team`s structure.',
     'Do you have experience working in an agile development environment?',
     'What is the best way for design to integrate into the agile process?',
-    'What is different about managing designers? Can you talk a little bit about the pitfalls of managing designers? How do you motivate designers?'
+    'What is different about managing designers? Can you talk a little bit about the pitfalls of managing designers? How do you motivate designers?',
+    "Design a vending machine for blind people"
 ];
 
 var lastUsed = "";

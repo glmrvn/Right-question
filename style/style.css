@@ -39,9 +39,13 @@ a:hover { color:black; }
 
 #name, #top a { padding: 24px; }
 
-/* Header block */
+/* Header */
 header {
-    height: 520px;
+    height: 660px;
+    background-image: url('../header_img.jpg');
+    background-size: 766px;
+    background-repeat: no-repeat;
+    background-position: bottom right; 
 }
 
 header h1, #about h1 {
@@ -58,16 +62,15 @@ header a { color: #000; }
     border-bottom: 2px solid #eee;
     padding-bottom: 4px;
 }
-.links a:hover { border-bottom: 2px solid #000; }
 
+.links a:hover { border-bottom: 2px solid #000; }
 .link-disabled { color: #aaa; border-bottom: none !important; }
 .link-disabled:hover { color: #aaa; }
 
-/* About block */
+/* About */
 #about {
     background-color: #000;
     height: 740px;
-    margin-top: 200px;
 }
 
 #about h1, #about p { color: #888; }
