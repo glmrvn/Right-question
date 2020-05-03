@@ -29,7 +29,7 @@ a:hover { color:black; }
     margin: 0 auto;
 }
 
-.text-contaier { width: 640px; }
+.text-container { width: 640px; }
 
 /* Top */
 #top {
@@ -40,7 +40,7 @@ a:hover { color:black; }
 #name, #top a { padding: 24px; }
 
 /* Header */
-.text-contaier h1 {
+.text-container h1 {
     margin-top: 200px;
     display: inline-block;
 }
