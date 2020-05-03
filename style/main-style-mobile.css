@@ -14,3 +14,10 @@
     footer { margin-top: 160px; }
     #name, #top a { padding: 16px; }
 }
+
+/* Tablet styles*/
+@media screen and (max-width: 1024px) {
+    .wrap { width: 94%; margin: 0 auto; }
+    .links { display: flex; margin-top: 20px; margin-bottom: 80px;}
+    .text-container { width: 100%; }
+}
