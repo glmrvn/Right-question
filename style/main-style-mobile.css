@@ -4,7 +4,7 @@
     .wrap { width: 90%; margin: 0 auto; }
     h1 { font-size: 24px; }
     .text-container { width: 100%; }
-    .text-container h1 { margin-top: 80px; }
+    .text-container h1 { margin-top: 120px; }
     .links a { margin-left: 24px; margin-right: 0px; }
     .links a:first-child { margin-left: 0px; }
     .links { display: flex; margin-top: 20px; margin-bottom: 80px;}

@@ -48,7 +48,7 @@ a:hover { color:black; }
 .name:hover {color: #666;}
 
 /* Question block */
-.wrap p {
+#center p {
     text-align: center;
     line-height: 0;
 }
@@ -60,6 +60,7 @@ a:hover { color:black; }
 
 #center {
     position: absolute;
+    width: 640px;
     top: 50%;
     left: 50%;
     margin-right: -50%;

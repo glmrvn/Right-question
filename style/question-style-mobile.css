@@ -1,6 +1,7 @@
 /* Mobile styles*/
 @media screen and (max-width: 414px) {
     body { font-size: 16px; }
-    .wrap { width: 90%; margin: 0 auto; }
     h1 { font-size: 24px; }
+    #center { width: 90%; }
+    .name, .top a { padding: 16px; }
 }
