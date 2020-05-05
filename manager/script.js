@@ -53,7 +53,7 @@ var questions = [
     "What should be Airbnb's strategy during the Covid-19 pandemic",
     "Estimate the number of passengers arriving in SF airport everyday",
     "How would you measure the success of Facebook Likes?",
-    "if you are opening a new store, how would you decide how many cash register is needed for the store?",
+    "If you are opening a new store, how would you decide how many cash register is needed for the store?",
     "How would you re-design the carwash?",
     "How would you design a web search engine for children below 7 years old?",
     "How would you acquire more users for Uber?",
@@ -66,7 +66,16 @@ var questions = [
     "How can Uber Eats use data to help restaurants and vendors increase their ranking?",
     "How would you measure the success of YouTube TV?",
     "What is the toughest problem that you have solved as a Product Manager?",
-    ""
+    "How do you manage a new product launch? What tactics, strategies and processes do you use?",
+    "Take a typical day in your life as a product manager. What's something you would perhaps prefer to skip?",
+    "What are you looking for in a new position?",
+    "What inputs do you use to build your roadmap?",
+    "How do you plan releases? What development methodology does your company follow?",
+    "Tell me how you motivate other people?",
+    "Describe a time when you used data to make a decision",
+    "What do your customers say they love most about the product?",
+    "How do you understand what 'responsibility' is?",
+    "Do you follow any opinion makers on product management topics? Who are they? Why do you read them?"
 ];
 
 var lastUsed = "";
