@@ -1,10 +1,9 @@
 /* Mobile styles*/
 @media screen and (max-width: 414px) {
     body { font-size: 16px; }
-    .wrap { width: 92%; margin: 0 auto; }
+    /* .wrap { width: 92%; margin: 0 auto; } */
     h1 { font-size: 24px; }
-    .text-container { width: 100%; }
-    .text-container h1 { margin-top: 200px; }
+    .text-container, .text-container h1 { width: 92%; }
     .links a { margin-left: 24px; margin-right: 0px; }
     .links a:first-child { margin-left: 0px; }
     .links { display: flex; margin-top: 20px; margin-bottom: 80px;}
@@ -16,7 +15,7 @@
 }
 
 /* Tablet styles*/
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     .links { display: flex; margin-top: 20px; margin-bottom: 80px;}
     .text-container { width: 100%; }
-}
+} */
