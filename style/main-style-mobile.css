@@ -1,7 +1,7 @@
 /* Mobile styles*/
 @media screen and (max-width: 414px) {
     body { font-size: 16px; }
-    .wrap { width: 90%; margin: 0 auto; }
+    .wrap { width: 92%; margin: 0 auto; }
     h1 { font-size: 24px; }
     .text-container { width: 100%; }
     .text-container h1 { margin-top: 200px; }
@@ -11,13 +11,12 @@
     .link-disabled { display: none; }
     .stats p { width: unset; }
     .stats { display: inline-table; }
-    footer { margin-top: 160px; }
+    footer { left: 16px; }
     #name, #top a { padding: 16px; }
 }
 
 /* Tablet styles*/
 @media screen and (max-width: 1024px) {
-    .wrap { width: 94%; margin: 0 auto; }
     .links { display: flex; margin-top: 20px; margin-bottom: 80px;}
     .text-container { width: 100%; }
 }
