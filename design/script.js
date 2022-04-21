@@ -1,4 +1,5 @@
 var target = document.getElementById('question');
+// var target = document.getElementById('answer');
 var questions = [
     "In your opinion, what is a product design?",
     "Tell us about the newest thing you’ve learned that has improved your design work. What was it?",
@@ -116,6 +117,10 @@ var questions = [
     "What are you looking for in a new position?"
 ];
 
+var advice = [
+    "✅ Show how your goals align with the employer’s goals \n ✅ Keep it relevant to the position \n ⛔️ Avoid discussing any negative motivators"
+];
+
 var lastUsed = "";
 
 function randomQuestion () {
@@ -124,6 +129,7 @@ function randomQuestion () {
     if (i != lastUsed) {
         var random = questions[i];
         question.innerText = random;
+        // answer.innerText = advice[i];
         lastUsed = i;
     } else {
         newTitle ()
